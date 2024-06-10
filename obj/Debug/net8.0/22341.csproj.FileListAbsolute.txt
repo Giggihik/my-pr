@@ -1,0 +1,14 @@
+C:\Users\IS\Desktop\22341\bin\Debug\net8.0\22341.exe
+C:\Users\IS\Desktop\22341\bin\Debug\net8.0\22341.deps.json
+C:\Users\IS\Desktop\22341\bin\Debug\net8.0\22341.runtimeconfig.json
+C:\Users\IS\Desktop\22341\bin\Debug\net8.0\22341.dll
+C:\Users\IS\Desktop\22341\bin\Debug\net8.0\22341.pdb
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.AssemblyInfoInputs.cache
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.AssemblyInfo.cs
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.csproj.CoreCompileInputs.cache
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.dll
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\refint\22341.dll
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.pdb
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\22341.genruntimeconfig.cache
+C:\Users\IS\Desktop\22341\obj\Debug\net8.0\ref\22341.dll
